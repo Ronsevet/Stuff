@@ -1,0 +1,2 @@
+region=xxx
+dynamodb_table_name=xxx
